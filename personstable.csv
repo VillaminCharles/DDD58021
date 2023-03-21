@@ -1,0 +1,4 @@
+PersonsID,LastName,FirstName,Age,personstablecol
+1,Hansen,Ola,30,NULL
+2,Svendson,Tove,23,NULL
+3,Pettersen,Karl,20,NULL
